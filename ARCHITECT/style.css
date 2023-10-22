@@ -1,0 +1,550 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    text-align: right;
+        
+}
+
+header a{
+    text-decoration: none;
+padding: 20px;
+    padding-bottom: 30px;
+    color: black;   
+}
+
+#link{
+   
+    font-size: 20px;
+    position: absolute;
+    left: 0;
+    padding-top: 2px;
+
+    margin-left: 0;
+
+}
+.logo h1{
+    position: absolute;
+    top: 1px;
+    margin-left: 700px;
+    margin-top: 300px;
+    color: white;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+.logo h1 span{
+    background-color: #000000;
+    width: 90px;
+    font-size: 30px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    opacity: .6;
+}
+
+body{
+        overflow-x: hidden;
+}
+
+.box{
+    width: 1600px;
+   height: 40px;
+  border: 15px solid white;
+  box-shadow: 2px 2px 4px #000000;
+  
+}
+
+.image img{
+position: sticky;
+width: 1560px;
+height: 600px;
+padding-right: 160px;
+padding-left: 160px;
+z-index: -1;
+}
+
+.box1{
+    width: 1260px;
+   height: 40px;
+  border: 12px solid white;
+  box-shadow: 1px 1px 1px black;
+  text-align: left;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 40px;
+}
+
+.content{
+    margin-right: 1130px;
+    padding-top: 50px;
+    
+    
+    
+}
+
+.content img{
+    height: 200px;
+    
+
+}
+
+button{
+    position: absolute;
+    left: 146px;
+    height: 30px;
+    width: 120px;
+    background-color: black;
+    color: white;
+}
+
+.content2{
+    margin-left: 600px;
+     margin-bottom: 200px;
+     top: 80px;
+         float: right;
+}
+
+
+.content2 img{
+    height: 200px;
+    position: absolute;
+    float: right;
+    top: 1px;
+    margin-top: 773px;
+    padding-left: 15px;
+}
+button.btn2{
+margin-left: 315px;
+position: absolute;
+top: 1px;
+margin-top: 770px;
+height: 30px;
+width: 120px;
+}
+.content3{
+    margin-left: 800px;
+    margin-bottom: 200px;
+    top: 70px;
+
+
+
+}
+.content3 img{
+    height: 200px;
+    position: absolute;
+    float: right;
+    top: 1px;
+    margin-top: 774px;  
+    margin-left: -20px;
+}
+
+button.btn3{
+    margin-left: 634px;
+    position: absolute;
+    top: 1px;
+    margin-top: 773px;
+}
+
+.content4{
+    margin-left: 1150px;
+    margin-bottom: 200px;
+    top: 70px;
+}
+.content4 img{
+    height: 200px;
+    position: absolute;
+    float: right;
+    top: 1px;
+    margin-top: 774px;
+    margin-left: -50px;
+}
+button.btn4{
+    margin-left: 954px;
+    position: absolute;
+    top: 1px;
+    margin-top: 774px;
+}
+.content2nd{
+    margin-right: 1130px;
+    padding-top: 50px;
+}
+
+.content5{
+    margin-left: 140px;
+    top: 70px;
+
+}
+.content5 img{
+    height: 200px;
+    position: absolute;
+    float: right;
+    top: 1px;
+    margin-top: 985px;
+    margin-left: 8px;
+
+}
+button.btn5{
+    position: absolute;
+    left: 146px;
+    top: 1px;
+    margin-top: 985px;
+}
+.content6{
+    margin-left: 600px;
+    margin-bottom: 200px;
+    top: 80px;
+        float: right;    
+}
+.content6 img{
+    height: 200px;
+    position: absolute;
+    float: right;
+    top: 1px;
+    margin-top: 985px;
+    margin-left: 461px;
+}
+button.btn6{
+    position: absolute;
+    left: 461px;
+    top: 1px;
+    margin-top: 985px;
+}
+.content7{
+    margin-left: 600px;
+    margin-bottom: 200px;
+    top: 80px;
+        float: right;
+}
+.content7 img{
+    height: 200px;
+    position: absolute;
+    float: right;
+    top: 1px;
+    margin-top: 985px;
+    margin-left: 780px;
+}
+button.btn7{
+    position: absolute;
+    left: 780px;
+    top: 1px;
+    margin-top: 985px;
+}
+.content8{
+    margin-left: 600px;
+    margin-bottom: 200px;
+    top: 80px;
+        float: right;
+}
+.content8 img{
+    height: 200px;
+    position: absolute;
+    float: right;
+    top: 1px;
+    margin-top: 985px;
+    margin-left: 1100px;
+}
+button.btn8{
+    position: absolute;
+    left: 1100px;
+    top: 1px;
+    margin-top: 985px;
+}
+.box2{
+    width: 1260px;
+   height: 40px;
+  border: 12px solid white;
+  box-shadow: 1px 1px 1px black;
+  text-align: left;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 40px;
+}
+.box2 h3{
+    position: absolute;
+    top: 1px;
+    margin-top: 1269px;
+}
+.box2 p{
+position: absolute;
+top: 1px;
+margin-top: 1320px;
+
+}
+
+.square{
+    margin-right: 1130px;
+    padding-top: 50px;
+}
+.square1{
+    margin-left: 140px;
+    top: 70px;
+
+}
+.square1 img{
+    height: 200px;
+    position: absolute;
+    float: right;
+    top: 1px;
+    margin-top: 1390px;
+    margin-left: 8px;
+}
+.square1 h2{
+    font-size: 20px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1600px;
+    margin-left: 10px;
+}
+.square1 h4{
+    font-size: 14px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1630px;
+    margin-left: 10px;
+    color: grey;
+    padding-top: 14px;
+}
+.square1 p{
+    font-size: 16px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1646px;
+    margin-left: 10px;
+    color: grey;
+    padding-top: 20px;
+    
+}
+button.btna{
+    position: absolute;
+    top: 1px;
+    margin-top: 1730px;
+    width: 300px;
+    color: black;
+    background-color: gainsboro;
+    border: none;   
+}
+.square2{
+    margin-left: 140px;
+    top: 70px;
+
+}
+.square2 img{
+    height: 200px;
+    position: absolute;
+    float: right;
+    top: 1px;
+    margin-top: 1390px;
+    margin-left: 325px;
+}
+.square2 h2{
+    font-size: 20px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1600px;
+    margin-left: 325px;
+}
+.square2 h4{
+    font-size: 14px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1630px;
+    margin-left: 325px;
+    color: grey;
+    padding-top: 14px;
+}
+.square2 p{
+    font-size: 16px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1646px;
+    margin-left: 325px;
+    color: grey;
+    padding-top: 20px;
+    
+}
+button.btnb{
+    position: absolute;
+    top: 1px;
+    margin-top: 1730px;
+    width: 300px;
+    color: black;
+    background-color: gainsboro;
+    border: none;  
+    margin-left: 320px; 
+}
+.square3{
+    margin-left: 140px;
+    top: 70px;
+}
+.square3 img{
+    height: 200px;
+    position: absolute;
+    float: right;
+    top: 1px;
+    margin-top: 1390px;
+    margin-left: 645px;
+}
+.square3 h2{
+    font-size: 20px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1600px;
+    margin-left: 645px;
+}
+.square3 h4{
+    font-size: 14px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1630px;
+    margin-left: 645px;
+    color: grey;
+    padding-top: 14px;
+}
+.square3 p{
+    font-size: 16px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1646px;
+    margin-left: 645px;
+    color: grey;
+    padding-top: 20px;
+    
+}
+button.btnc{
+    position: absolute;
+    top: 1px;
+    margin-top: 1730px;
+    width: 300px;
+    color: black;
+    background-color: gainsboro;
+    border: none;  
+    margin-left: 640px; 
+}
+.square4{
+    margin-left: 140px;
+    top: 70px;
+
+}
+.square4 img{
+    height: 200px;
+    position: absolute;
+    float: right;
+    top: 1px;
+    margin-top: 1390px;
+    margin-left: 970px;
+    
+}
+.square4 h2{
+    font-size: 20px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1600px;
+    margin-left: 970px;
+}
+.square4 h4{
+    font-size: 14px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1630px;
+    margin-left: 970px;
+    color: grey;
+    padding-top: 14px;
+}
+.square4 p{
+    font-size: 16px;
+    position: absolute;
+    top: 1px;
+    margin-top: 1646px;
+    margin-left: 970px;
+    color: grey;
+    padding-top: 20px;
+    
+}
+button.btnd{
+    position: absolute;
+    top: 1px;
+    margin-top: 1730px;
+    width: 300px;
+    color: black;
+    background-color: gainsboro;
+    border: none;  
+    margin-left: 965px; 
+}
+.box3{
+    width: 1260px;
+    height: 40px;
+   border: 12px solid white;
+   box-shadow: 1px 1px 1px black;
+   text-align: left;
+   margin-left: 150px;
+   margin-right: 150px;
+   margin-top: 450px; 
+}
+.box3 h3{
+    position: absolute;
+    top: 1px;
+    margin-top: 1822px;
+}
+.box3 p{
+position: absolute;
+top: 1px;
+margin-top: 1860px;
+
+}
+
+input.inpt1{
+    height: 35px;
+    width: 1260px;
+margin-left: 150px;
+margin-top: 40px;
+border: 2px solid gray;
+}
+input.inpt2{
+    height: 35px;
+    width: 1260px;
+margin-left: 150px;
+margin-top: 20px;
+border: 2px solid gray;
+}
+input.inpt3{
+    height: 35px;
+    width: 1260px;
+margin-left: 150px;
+margin-top: 20px;
+border: 2px solid gray;
+}
+input.inpt4{
+    height: 35px;
+    width: 1260px;
+margin-left: 150px;
+margin-top: 20px;
+border: 2px solid gray;
+}
+button.btns{
+    position: absolute;
+    top: 1px;
+    margin-top: 2100px;
+    margin-left: 4px;
+
+}
+.imagbc img{
+    width: 1410px;
+    height: 700px;
+    padding-left: 145px;
+    
+    margin-top:70px
+
+}
+footer p{
+    text-align: center;
+    background-color: #000000;
+    color: white;
+    height: 60px;
+    padding-top: 20px;
+}
